@@ -11,7 +11,7 @@
  - 🍎 Apple Fan 
  - ☕ Não viciado em café (aprecio com moderação)
  - 💻 Hackintosh: Core i7 7500u - 12Gb RAM - Mac OS BigSur
- - 📱  Postando contepudo sobre programação lá no [Instagram](https://instagram.com/0rientd)
+ - 📱  Postando contepudo sobre programação lá no [Instagram](https://www.instagram.com/dev.0rientd/)
  - 👨‍💻 Futuro programador em Swift
 
 ----------

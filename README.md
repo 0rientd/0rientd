@@ -7,7 +7,7 @@
 
 ----------
 
- - 🌱 Atualmente estou estudando: Java (Santander Bootcamp na Digital Innovation One)
+ - 🌱 Atualmente estou estudando: Java Script / React / React Native
  - 🍎 Apple Fan 
  - ☕ Não viciado em café (aprecio com moderação)
  - 💻 Hackintosh: Core i7 7500u - 12Gb RAM - Mac OS BigSur

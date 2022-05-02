@@ -7,11 +7,11 @@
 
 ----------
 
- - 🌱 Atualmente estou estudando: Java Script / React / React Native
+ - 🌱 Atualmente estou estudando: Ruby / Ruby on Rails
  - 🍎 Apple Fan 
  - ☕ Não viciado em café (aprecio com moderação)
  - 💻 Hackintosh: Core i7 7500u - 12Gb RAM - Mac OS BigSur
  - 📱  Postando contepudo sobre programação lá no [Instagram](https://www.instagram.com/dev.0rientd/)
- - 👨‍💻 Futuro programador em Swift
+ - 👨‍💻 Futuro programador backend
 
 ----------

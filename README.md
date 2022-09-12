@@ -15,6 +15,6 @@
  - 🌱 Atualmente estou estudando: Ruby / Ruby on Rails
  - 🍎 Apple Fan 
  - 💻 Hackintosh: Core i7 7500u - 12Gb RAM - Mac OS BigSur
- - 📱  Postando contepudo sobre programação lá no [Instagram](https://www.instagram.com/dev.0rientd/)
+ - 📱  Postando conteúdo sobre programação lá no [Instagram](https://www.instagram.com/dev.0rientd/)
 
 ----------

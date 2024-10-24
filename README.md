@@ -5,6 +5,5 @@
 
  - 👨‍💻 Dev Full Stack Ruby | Ruby On Rails
  - 🌱 Atualmente estou estudando: Ruby / Ruby on Rails
- - 🍎 Apple Fan 
 
 ----------

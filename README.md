@@ -4,7 +4,7 @@
 </h1> 
 
  - 👨‍💻 Dev Full Stack Ruby On Rails Jr
- - 🌱 Actually learning: Ruby and Ruby on Rails
+ - 🌱 Actually learning: Node, React and System Design
  - 🌐 Talk in Portuguese, Japanese and English
  - ☕️ Pay me a coffee: 2676726a-0c15-4edb-93d0-6e3b76a8b993 (pix)
 
